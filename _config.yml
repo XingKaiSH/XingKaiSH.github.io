@@ -10,13 +10,13 @@ url: "https://xingkaish.github.io/"  # 此处填写你的博客地址
 owner: 
   name: "王思衡" # 填写作者信息：名字
   email: 974367956@qq.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  bio: "这是一个简陋的小窝" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  # 你的豆瓣id
+douban_username:
 twitter_username: 
 github_username: XingKaiSH
 facebook_username: 
