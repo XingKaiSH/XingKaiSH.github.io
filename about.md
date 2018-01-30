@@ -1,11 +1,13 @@
 ﻿---
 layout: page
 title: "About"
-description: "这里是一个简陋的小窝 " 
+description: "Long may the sun shine!" 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+1.作者是一个挂科的大学生
+2.QQ：974367956
+3.目前主要学习C语言、C++
 
 
 
