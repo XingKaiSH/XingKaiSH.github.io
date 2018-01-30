@@ -1,5 +1,5 @@
 ﻿---
-layout: post1
+layout: post
 title: C语言-利用数组实现贪吃蛇游戏
 date: 2018-01-31
 categories: blog
