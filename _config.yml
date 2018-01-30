@@ -16,10 +16,10 @@ owner:
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
-douban_username:123
-twitter_username: 23
+douban_username:
+twitter_username:
 github_username: XingKaiSH
-facebook_username: 333
+facebook_username:
 weibo_username: 
 zhihu_username: 
 
