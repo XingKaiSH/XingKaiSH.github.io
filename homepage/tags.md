@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "恭喜你，找到了我的文章基因库"  
-header-img: "img/zhihu.jpg"  
+header-img: "img/green.jpg"  
 ---
 
 ## 本页使用方法
