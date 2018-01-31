@@ -4,10 +4,10 @@ title: C语言-利用数组实现贪吃蛇游戏
 date: 2018-01-31
 categories: blog
 tags: [C语言]
-description: 文章金句。
+description: 参考后原创
 ---
 
-等待施工
+### 经过一个学期的学习，
 
 
 
